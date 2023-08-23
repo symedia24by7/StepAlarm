@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/bar_steps"
+        android:icon="@drawable/ic_steps"
+        android:title="Steps" />
+
+    <item
+        android:id="@+id/bar_timer"
+        android:icon="@drawable/ic_timer"
+        android:title="Timer" />
+
+
+    <item
+        android:id="@+id/bar_alarm"
+        android:icon="@drawable/ic_alarm"
+        android:title="Alarm" />
+    <item
+        android:id="@+id/bar_stopwatch"
+        android:icon="@drawable/ic_stopwatch"
+        android:title="Stopwatch" />
+    <item
+        android:id="@+id/bar_goals"
+        android:icon="@drawable/ic_tasks"
+        android:title="Tasks" />
+
+
+</menu>
